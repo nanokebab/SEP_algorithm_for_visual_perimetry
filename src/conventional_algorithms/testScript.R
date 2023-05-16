@@ -1,4 +1,4 @@
-#test script for Serife
+#test script for dynamic and TOP strategy
 
 #DEFS
 simType <- "G" # "G" -> patinet with glaucoma, "N" -> normal patient, "C" -> combined
