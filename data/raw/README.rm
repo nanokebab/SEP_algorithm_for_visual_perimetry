@@ -1,1 +1,5 @@
+To run this code you have to place the two files VFPoints.csv and VisualFields.csv 
+from the ‘Longitudinal Glaucomatous Visual Field' data set (ROTTERDAM OPHTHALMIC DATA REPOSITORY) in this folder. 
 
+You can get the data set here:
+http://www.rodrep.com/longitudinal-glaucomatous-vf-data---description.html
