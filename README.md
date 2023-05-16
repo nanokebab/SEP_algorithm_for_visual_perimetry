@@ -6,7 +6,7 @@ This repository contains some of the code I developed during my work at the ARTO
 
 These were  basically my first steps as a programmer, so code quality isn’t always the finest.
 
-To run this code you have to place the two files VFPoints.csv and VisualFields.csv from the ‘Longitudinal Glaucomatous Visual Field data’ set  (ROTTERDAM OPHTHALMIC DATA REPOSITORY) in the data/raw folder. You can get the data set here:
+To run this code you have to place the two files VFPoints.csv and VisualFields.csv from the ‘Longitudinal Glaucomatous Visual Field data’ set  (ROTTERDAM OPHTHALMIC DATA REPOSITORY) in the data/raw/ folder. You can get the data set here:
 http://www.rodrep.com/longitudinal-glaucomatous-vf-data---description.html
 
 Have fun :)
